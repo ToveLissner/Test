@@ -11,7 +11,12 @@ body {
 @media screen and (min-width:768px){
     .container { 
         background-color: aqua;
-        background-image: url("./..assets/bild.png");
+    }
+}
+
+@media screen and (min-width:1200px){
+    .container { 
+        background-color: pink;
     }
 }
     
